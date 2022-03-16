@@ -1,4 +1,4 @@
-# SemilleroSincosof
+# SemilleroSincosoft
 
 This is the 7th phase of the semillero starting March 16th 2022
 
