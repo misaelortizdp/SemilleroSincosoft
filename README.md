@@ -11,7 +11,7 @@ upload figmas - and finish html
 
 $figma projects 4 and 5 finished and uploaded 
 
-$quiz html finished 
+$quiz and HTML Course at freecodecamp finished 
 
 $CSS Course at freecodecamp started an 50% done
 
