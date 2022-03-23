@@ -19,3 +19,6 @@ $SQL Course 45% advanced
 
 $stored procedures test uploaded (pending to review)
 
+23/03/2020
+
+$figma projects 6 finished and uploaded 
