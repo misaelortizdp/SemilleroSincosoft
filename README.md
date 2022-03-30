@@ -27,3 +27,8 @@ $figma projects 7 finished and uploaded
 
 25/03/2022
 $figma projects 8 finished and uploaded
+
+30/03/2022
+$figma projects landing page finished and uploaded
+
+
