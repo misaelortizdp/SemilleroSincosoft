@@ -31,5 +31,8 @@ $figma projects 8 finished and uploaded
 30/03/2022
 $figma projects landing page finished and uploaded
 
+![Desktop - 1](https://user-images.githubusercontent.com/55262261/160879881-08eef77f-6d0b-41e8-bb98-7a0c7c558420.png)
+
+
 
 
