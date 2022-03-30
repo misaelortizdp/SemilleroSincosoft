@@ -32,13 +32,3 @@ $figma projects 8 finished and uploaded
 30/03/2022
 
 $figma projects landing page finished and uploaded
-
-<<<<<<< HEAD
-$uploading all finished figma designs in .png
-=======
-
-
-
-
-
->>>>>>> 6ba39a9079444899b78a3f171ef1c1e43d5a9f52
