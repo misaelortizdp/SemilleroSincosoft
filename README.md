@@ -33,8 +33,12 @@ $figma projects 8 finished and uploaded
 
 $figma projects landing page finished and uploaded
 
+
+
 $uploading all finished figma designs in .png
 
 5/04/2022
 
 $Ex1 html finished y uploaded (desktop version)
+
+$Ex2 html finished y uploaded (desktop version)
