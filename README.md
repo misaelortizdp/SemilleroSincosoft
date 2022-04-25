@@ -42,3 +42,10 @@ $uploading all finished figma designs in .png
 $Ex1 html finished y uploaded (desktop version)
 
 $Ex2 html finished y uploaded (desktop version)
+
+25/04/2022
+
+$Ex1 html finished y uploaded (mobile version)
+
+$Ex2 html finished y uploaded (mobile version)
+
