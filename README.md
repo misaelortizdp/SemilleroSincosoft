@@ -49,3 +49,13 @@ $Ex1 html finished y uploaded (mobile version)
 
 $Ex2 html finished y uploaded (mobile version)
 
+26/04/2022
+
+$Ex6 html finished y uploaded (mobile and desktop version)
+
+27/04/2022
+$Ex7 html finished y uploaded (mobile and desktop version)
+
+
+
+
