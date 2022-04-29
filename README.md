@@ -54,7 +54,12 @@ $Ex2 html finished y uploaded (mobile version)
 $Ex6 html finished y uploaded (mobile and desktop version)
 
 27/04/2022
+
 $Ex7 html finished y uploaded (mobile and desktop version)
+
+29/04/2022
+
+$Ex9 html Exercise donde 60% 
 
 
 
