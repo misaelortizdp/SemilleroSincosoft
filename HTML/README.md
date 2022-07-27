@@ -2,7 +2,7 @@
 
 $1- [Landing-page](https://github.com/misaelortizdp/landing-page-Arena.git)
 
-$2- [Ex1-Html](https://github.com/misaelortizdp/Ej1-html-sem.git)
+$2- [Ex1-Html](https://github.com/misaelortizdp/SEM-EJ1-HTML.git)
 
 $3- [Ex2-Html](https://github.com/misaelortizdp/SEM-EJ2-HTML.git)
 
