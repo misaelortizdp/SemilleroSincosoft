@@ -1,6 +1,6 @@
-# Here you will find the links to the repositories of the html projects
+# Here you will find the links to the repositories of the html projects and the links of its pages
 
-$1- [LandingPage-Repository](https://github.com/misaelortizdp/landing-page-Arena.git)                              [-Click here to go to the page](https://landing-page-arena.vercel.app/)  
+$1- [LandingPage-Repository](https://github.com/misaelortizdp/landing-page-Arena.git)                              [-                  Click here to go to the page](https://landing-page-arena.vercel.app/)  
 
 $2- [Ex1-Html-Repository](https://github.com/misaelortizdp/SEM-EJ1-HTML.git)                   []()
 
